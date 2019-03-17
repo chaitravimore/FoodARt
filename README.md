@@ -10,4 +10,9 @@
 [![made-with-vuforia](https://img.shields.io/badge/made%20with%20-Vuforia-green.svg)](https://www.vuforia.com/)
 <br>
 
+>The main shortcoming of traditional flyer menus or online ordering apps is the lack of sufficient visual information. Customers often have trouble visualizing the food, which impairs ordering ethnic dishes and confuses portion size. By using innovative technologies in online food ordering, `FoodARt` enables you to extend `visual information` without limits. Customers can see the food in correct dimensions before they order and can combine different side dishes with main courses simultaneously, keeping them wholly informed about what they are going to eat. Because of all of this, the `FoodARt` app minimizes customer frustration and buyer remorse. With the next generation of online food ordering, customers can always be satisfied with their orders.
+
+###How is it different from other apps
+
+
 </div>
